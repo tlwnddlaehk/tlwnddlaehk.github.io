@@ -76,8 +76,8 @@ branch: master
 relative_source: ../
 destination: ../
 #production_url:  https://jekyller.github.io/jasper2/
-production_url:  https://tlwnddlaehk.github.io
-source_url:  https://tlwnddlaehk.github.io
+production_url:  https://tlwnddlaehk.github.io/
+source_url:  https://tlwnddlaehk.github.io/
 
 exclude:
   - assets/css
